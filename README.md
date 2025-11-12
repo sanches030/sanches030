@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sanches030
-- 👀 I’m interested in veb-dev, python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in veb-dev, python,rust
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me inst: oleksandrkravchuk_
 
 <!---
 sanches030/sanches030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
