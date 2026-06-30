@@ -1,4 +1,4 @@
-**#Hi, i'm Sanches 👋**
+**# Hi, i'm Sanches 👋**
 
 CS srudent<br/>
 Learning Python and Rust, my [instagram page photography](https://www.instagram.com/oleksandrkravchuk_/): <br/>
