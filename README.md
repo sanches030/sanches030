@@ -1,6 +1,6 @@
 # Hi, i'm Sanches 👋 
 
-CS srudent<br/>
+CS student<br/>
 Learning Python and Rust, my [instagram page photography](https://www.instagram.com/oleksandrkravchuk_/): <br/>
 
 ## 🌐 Socials:
